@@ -2,7 +2,7 @@
 
 Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 
-## Base Version 👌
+## Base
 
 |                                    Componente                                   |    Precio  |
 |:------------------------------------------------------------------------------- |  ---------:|
@@ -16,7 +16,7 @@ Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 | *Total*                                                                         | $1.427.000 |
 | ***Con grafica dedicada***                                                      | $1.897.000 |
 
-## HDD Hater Version 👎
+## Sin HDD
 
 |                                    Componente                                   |    Precio  |
 |:------------------------------------------------------------------------------- |  ---------:|
@@ -30,7 +30,7 @@ Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 | ***Con grafica dedicada***                                                      | $1.708.000 |
 
 
-## SSD Lover Version ❤
+## SSD 480GB (No HDD)
 
 |                                    Componente                                   |    Precio  |
 |:------------------------------------------------------------------------------- |  ---------:|
@@ -43,7 +43,7 @@ Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 | *Total*                                                                         | $1.324.000 |
 | ***Con grafica dedicada***                                                      | $1.794.000 |
 
-## SSD Simp Version 💕💓💘
+## SSD 960GB (No HDD)
 
 |                                    Componente                                   |    Precio  |
 |:------------------------------------------------------------------------------- |  ---------:|
