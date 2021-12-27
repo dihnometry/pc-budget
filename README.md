@@ -8,26 +8,26 @@ Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 |:------------------------------------------------------------------------------- |  ---------:|
 | [Disco SSD Kingston 240GB][SSD240]                                              |  $139.000  |
 | [Disco duro interno 1TB][HDD1TB]                                                |  $189.000  |
-| [Procesador AMD Athlon 3000G de 2 núcleos y 3.5GHz, con gráfica integrada][CPU] |  $320.000  |
+| [Procesador AMD Athlon 3000G de 2 núcleos y 3.5GHz, con gráfica integrada][CPU] |  $275.000  |
 | [Placa Base B450m Cvn Gaming V14][MBCheap]                                      |  $325.000  |
 | [4GB RAM DDR4 2666Mhz x 2][RAM]                                                 |  $196.000  |
 | [Gabinete][Gabinete]                                                            |  $120.000  |
 | [Fuente Corsair Cv550 550w Cert 80 Plus Bronze][Fuente]                         |  $183.000  |
-| *Total*                                                                         | $1.472.000 |
-| ***Con grafica dedicada***                                                      | $1.942.000 |
+| *Total*                                                                         | $1.427.000 |
+| ***Con grafica dedicada***                                                      | $1.897.000 |
 
 ## HDD Hater Version 👎
 
 |                                    Componente                                   |    Precio  |
 |:------------------------------------------------------------------------------- |  ---------:|
 | [Disco SSD Kingston 240GB][SSD240]                                              |  $139.000  |
-| [Procesador AMD Athlon 3000G de 2 núcleos y 3.5GHz, con gráfica integrada][CPU] |  $320.000  |
+| [Procesador AMD Athlon 3000G de 2 núcleos y 3.5GHz, con gráfica integrada][CPU] |  $275.000  |
 | [Placa Base B450m Cvn Gaming V14][MBCheap]                                      |  $325.000  |
 | [4GB RAM DDR4 2666Mhz x 2][RAM]                                                 |  $196.000  |
 | [Gabinete][Gabinete]                                                            |  $120.000  |
 | [Fuente Corsair Cv550 550w Cert 80 Plus Bronze][Fuente]                         |  $183.000  |
-| *Total*                                                                         | $1.283.000 |
-| ***Con grafica dedicada***                                                      | $1.753.000 |
+| *Total*                                                                         | $1.238.000 |
+| ***Con grafica dedicada***                                                      | $1.708.000 |
 
 
 ## SSD Lover Version ❤
@@ -35,26 +35,26 @@ Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 |                                    Componente                                   |    Precio  |
 |:------------------------------------------------------------------------------- |  ---------:|
 | [Disco SSD Kingston 480GB][SSD480]                                              |  $225.000  |
-| [Procesador AMD Athlon 3000G de 2 núcleos y 3.5GHz, con gráfica integrada][CPU] |  $320.000  |
+| [Procesador AMD Athlon 3000G de 2 núcleos y 3.5GHz, con gráfica integrada][CPU] |  $275.000  |
 | [Placa Base B450m Cvn Gaming V14][MBCheap]                                      |  $325.000  |
 | [4GB RAM DDR4 2666Mhz x 2][RAM]                                                 |  $196.000  |
 | [Gabinete][Gabinete]                                                            |  $120.000  |
 | [Fuente Corsair Cv550 550w Cert 80 Plus Bronze][Fuente]                         |  $183.000  |
-| *Total*                                                                         | $1.369.000 |
-| ***Con grafica dedicada***                                                      | $1.839.000 |
+| *Total*                                                                         | $1.324.000 |
+| ***Con grafica dedicada***                                                      | $1.794.000 |
 
 ## SSD Simp Version 💕💓💘
 
 |                                    Componente                                   |    Precio  |
 |:------------------------------------------------------------------------------- |  ---------:|
 | [Disco SSD Kingston 960GB][SSD960]                                              |  $439.000  |
-| [Procesador AMD Athlon 3000G de 2 núcleos y 3.5GHz, con gráfica integrada][CPU] |  $320.000  |
+| [Procesador AMD Athlon 3000G de 2 núcleos y 3.5GHz, con gráfica integrada][CPU] |  $275.000  |
 | [Placa Base B450m Cvn Gaming V14][MBCheap]                                      |  $325.000  |
 | [4GB RAM DDR4 2666Mhz x 2][RAM]                                                 |  $196.000  |
 | [Gabinete][Gabinete]                                                            |  $120.000  |
 | [Fuente Corsair Cv550 550w Cert 80 Plus Bronze][Fuente]                         |  $183.000  |
-| *Total*                                                                         | $1.583.000 |
-| ***Con grafica dedicada***                                                      | $2.053.000 |
+| *Total*                                                                         | $1.538.000 |
+| ***Con grafica dedicada***                                                      | $2.008.000 |
      
 *c:*  
   
@@ -68,7 +68,7 @@ Una grafica aun mejor es [esta][RX550]
 
 [HDD1TB]: <https://www.mercadolibre.com.co/disco-duro-interno-seagate-barracuda-st1000dm010-1tb/p/MCO6305462?pdp_filters=category:MCO1672#searchVariation=MCO6305462&position=4&search_layout=stack&type=product&tracking_id=38782dff-2420-4572-a9f9-c15b6d57462e>
 
-[CPU]: <https://www.mercadolibre.com.co/procesador-amd-athlon-3000g-yd3000c6fhbox-de-2-nucleos-y-35ghz-de-frecuencia-con-grafica-integrada/p/MCO15285294?pdp_filters=category:MCO441358#searchVariation=MCO15285294&position=1&search_layout=stack&type=product&tracking_id=e530bf81-eb13-43a4-8d60-3d7d4780aa96>
+[CPU]: <https://clonesyperifericos.com/comprar/procesador-amd-athlon-3000g/>
 
 [MBCheap]: <https://articulo.mercadolibre.com.co/MCO-652305623-placa-base-b450m-cvn-gaming-v14-_JM?searchVariation=92923008398#searchVariation=92923008398&position=1&search_layout=stack&type=item&tracking_id=636214ea-ca3a-4997-a603-03cd109157f3>
 
