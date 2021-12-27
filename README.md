@@ -1,4 +1,4 @@
-# PC MASTER RACE FULL SSD 3090 4K
+# Presupuesto para un PC básico (mejorable)
 
 Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 
