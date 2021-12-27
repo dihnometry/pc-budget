@@ -56,7 +56,9 @@ Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 | *Total*                                                                         | $1.583.000 |
 | ***Con grafica dedicada***                                                      | $2.053.000 |
      
-*c:*
+*c:*  
+  
+Una grafica aun mejor es [esta][RX550]
 
 [SSD240]: <https://www.mercadolibre.com.co/disco-solido-ssd-interno-kingston-sa400s37240g-240gb/p/MCO6408981?product_trigger_id=MCO6366629&pdp_filters=category%3AMCO1672&applied_product_filters=MCO6408981&quantity=1>
 
@@ -77,3 +79,5 @@ Como grafica se va a tener de referencia una [Nvidia GeForce GT 1030][1030].
 [Fuente]: <https://articulo.mercadolibre.com.co/MCO-585365194-fuente-corsair-cv550-550w-cert-80-plus-bronze-_JM?searchVariation=65010908207#searchVariation=65010908207&position=5&search_layout=stack&type=item&tracking_id=75f14965-cd68-4a3c-8636-174a9e2ac47a>
 
 [1030]: <https://www.mercadolibre.com.co/tarjeta-de-video-nvidia-gigabyte-geforce-10-series-gt-1030-gv-n1030d4-2gl-2gb/p/MCO13773465#reco_backend=machinalis-comparator-brand&reco_client=pdp_comparator&reco_product_pos=1&reco_backend_type=low_level&reco_id=64daddac-479c-4810-a9d5-448b5a35eaa4>
+
+[RX550]: <https://articulo.mercadolibre.com.co/MCO-624979687-tarjeta-de-video-iceberg-rx550-4gb-gddr5-amd-radeon-512sp-_JM#position=22&search_layout=stack&type=item&tracking_id=2930d786-86ec-4200-9abc-e542ce0910a3>
